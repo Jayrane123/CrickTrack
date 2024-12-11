@@ -1,0 +1,47 @@
+const axios = require('axios');
+import React from 'react';
+import { ApiData } from '@/lib/types';
+
+interface YourPageProps {
+  data: ApiData | null;
+}
+
+export async function getserver() {
+    const options = {
+        method: 'GET',
+        url: 'https://cricbuzz-cricket.p.rapidapi.com/mcenter/v1/41881/comm',
+        headers: {
+          'x-rapidapi-key': process.env.REACT_APP_API_KEY,
+          'x-rapidapi-host': 'cricbuzz-cricket.p.rapidapi.com'
+        }
+      };
+      
+      try {
+          const response = await axios.request(options);
+          return {
+            props: {
+              data: response.data,
+            },
+          };
+      } catch (error) {
+          console.error(error);
+          return {
+            props: {
+              data: null,
+            },
+          };
+      }
+    }
+const page=({data})=>{
+  return(
+    <div>
+      <h1>Page</h1>
+      {data ? (
+        <pre>{JSON.stringify(data, null, 2)}</pre>
+      ) : (
+        <p>Failed to load data</p>
+      )}
+    </div>
+  )
+}
+export default page;

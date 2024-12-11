@@ -1,0 +1,18 @@
+/* .flex {
+  display: flex;
+  flex-direction: row; 
+  gap: 2rem;
+} */
+
+  .mt-1 {
+    margin-top: 0.25rem; /* Adjust spacing if needed */
+  }
+  .space-y-4 {
+    --tw-space-y-reverse: 0;
+    margin-top: calc(1rem * calc(1 - var(--tw-space-y-reverse)));
+    margin-bottom: calc(1rem * var(--tw-space-y-reverse));
+  }
+  .text-sm {
+    font-size: 0.875rem; /* Tailwind's small text size */
+  }
+  

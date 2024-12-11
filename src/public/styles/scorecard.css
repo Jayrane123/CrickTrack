@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.scorecard {
+  /* @apply px-4 py-3 justify-center border-x border-solid border-gray-300; */
+  @apply grid pl-8 place-content-center pr-1 py-3 w-auto align-middle justify-center border-x border-solid border-gray-300 box-border min-h-1 gap-4 text-base;
+}
+div{
+  @apply isolate;
+}
+body {
+  background:darkslategrey;
+  font-family: helvetica, "Segoe UI", Arial, sans-serif;
+  color: #222;
+  font-size: 14px;
+  line-height: 1.5;
+}

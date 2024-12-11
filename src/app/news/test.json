@@ -1,0 +1,223 @@
+{
+    "storyList": [
+      {
+        "story": {
+          "id": 132671,
+          "hline": "Labuschagne, Heat hit fifties as Australia take lead",
+          "intro": "Jasprit Bumrah struck twice but Australia walked away the happier side at the end of the first session",
+          "pubTime": "1733552073597",
+          "source": "Cricbuzz",
+          "storyType": "Reports",
+          "imageId": 584975,
+          "seoHeadline": "Labuschagne, Heat hit fifties as Australia take lead",
+          "context": "India tour of Australia, 2024-25",
+          "coverImage": {
+            "id": "584975",
+            "caption": "Marnus Labuschagne and Travis Head added 65 runs for the fourth wicket",
+            "source": "Getty"
+          },
+          "entitlements": {},
+          "adsType": {}
+        }
+      },
+      {
+        "ad": {
+          "name": "native_news_index",
+          "layout": "native_large",
+          "position": 1
+        }
+      },
+      {
+        "story": {
+          "id": 132670,
+          "hline": "England dig their heels into New Zealand in Wellington",
+          "intro": "After bundling out New Zealand for just 125, England flew through Ben Duckett and Jacob Bethell's entertaining batting",
+          "pubTime": "1733551250436",
+          "source": "Cricbuzz",
+          "storyType": "Reports",
+          "imageId": 584970,
+          "seoHeadline": "England dig their heels into New Zealand in Wellington",
+          "context": "England tour of New Zealand, 2024",
+          "coverImage": {
+            "id": "584970",
+            "caption": "Both Duckett and Bethell fell in the 90s.",
+            "source": "Getty"
+          },
+          "entitlements": {},
+          "adsType": {}
+        }
+      },
+      {
+        "story": {
+          "id": 132669,
+          "hline": "We still feel we are in the game - Ten Doeschate",
+          "intro": "Meanwhile, Starc heaped praise on Labuschagne and McSweeney on their batting efforts in the final session\n",
+          "pubTime": "1733507333885",
+          "source": "Cricbuzz",
+          "storyType": "News",
+          "imageId": 584928,
+          "seoHeadline": "We still feel we are in the game - Ten Doeschate",
+          "context": "India tour of Australia, 2024-25",
+          "coverImage": {
+            "id": "584928",
+            "caption": "Australia went into stumps trailing by only 94 runs with nine wickets in hand, after bowling India out for 180",
+            "source": "Getty"
+          },
+          "entitlements": {},
+          "adsType": {}
+        }
+      },
+      {
+        "story": {
+          "id": 132668,
+          "hline": "Verreynne rules before attrition sets in at St George's Park",
+          "intro": "The wicketkeeper-batter's century was the only bright spot on the second day's play for South Africa as the momentum shifted firmly in favour of the visitors",
+          "pubTime": "1733505210832",
+          "source": "Cricbuzz",
+          "storyType": "Match Features",
+          "imageId": 584927,
+          "seoHeadline": "Kyle Verreynne rules before attrition sets in at St George's Park Sri Lanka vs South Africa",
+          "context": "Sri Lanka tour of South Africa 2024",
+          "coverImage": {
+            "id": "584927",
+            "caption": "Kyle Verreynne stroked his third Test century",
+            "source": "AFP"
+          },
+          "entitlements": {},
+          "adsType": {}
+        }
+      },
+      {
+        "story": {
+          "id": 132667,
+          "hline": "Collective batting effort powers Sri Lanka's fightback on Day 2",
+          "intro": "Led by Pathum Nissanka's 89, Sri Lanka went to Stumps at 242/3 after South Africa were bowled out for 358",
+          "pubTime": "1733501877020",
+          "source": "Cricbuzz",
+          "storyType": "Reports",
+          "imageId": 584899,
+          "seoHeadline": "Collective batting effort powers Sri Lanka's fightback on Day 2",
+          "context": "Sri Lanka tour of South Africa, 2024",
+          "coverImage": {
+            "id": "584899",
+            "caption": "Pathum Nissanka and Dinesh Chandimal put on a century stand",
+            "source": "Getty"
+          },
+          "entitlements": {},
+          "adsType": {}
+        }
+      },
+      {
+        "ad": {
+          "name": "native_news_index_2",
+          "layout": "native_large",
+          "position": 5
+        }
+      },
+      {
+        "story": {
+          "id": 132666,
+          "hline": "Nissanka, Chandimal keep SL steady in reply",
+          "intro": "The visitors had a productive session, losing just the solitary wicket of Dimuth Karunaratne",
+          "pubTime": "1733489885313",
+          "source": "Cricbuzz",
+          "storyType": "Reports",
+          "imageId": 584790,
+          "seoHeadline": "Nissanka, Chandimal keep SL steady in reply",
+          "context": "Sri Lanka tour of South Africa, 2024",
+          "coverImage": {
+            "id": "584790",
+            "caption": "Nissanka looked solid in the post-lunch session.",
+            "source": "AFP"
+          },
+          "entitlements": {},
+          "adsType": {}
+        }
+      },
+      {
+        "story": {
+          "id": 132665,
+          "hline": "'My favourite hundred' - Brook on his Basin Reserve 123",
+          "intro": "The English batter's counter-attacking century, followed by the efforts of the bowlers, helped England take control at the end of the second day in Wellington",
+          "pubTime": "1733487867229",
+          "source": "Cricbuzz",
+          "storyType": "News",
+          "imageId": 584767,
+          "seoHeadline": "'My favourite hundred' - Brook on his Basin Reserve 123",
+          "context": "England tour of New Zealand 2024-25",
+          "coverImage": {
+            "id": "584767",
+            "caption": "Harry Brook has massed seven overseas hundreds in only 10 Tests",
+            "source": "AFP"
+          },
+          "entitlements": {},
+          "adsType": {}
+        }
+      },
+      {
+        "story": {
+          "id": 132664,
+          "hline": "Starc's 6-fer headlines Australia's dominant start in Adelaide",
+          "intro": "The left-armer's career-best figures in Tests was followed by a dogged partnership between McSweeney and Labuschagne.",
+          "pubTime": "1733486488489",
+          "source": "Cricbuzz",
+          "storyType": "Reports",
+          "imageId": 584703,
+          "seoHeadline": "Starc's 6-fer headlines Australia's dominant start in Adelaide",
+          "context": "India tour of Australia 2024-25",
+          "coverImage": {
+            "id": "584703",
+            "caption": "Mitchell Starc set up the day for Australia with his career-best figures in Tests ",
+            "source": "Getty"
+          },
+          "entitlements": {},
+          "adsType": {}
+        }
+      },
+      {
+        "story": {
+          "id": 132663,
+          "hline": "South Africa finish with 358 after Verreynne ton",
+          "intro": "Sri Lanka's openers negotiated a tricky spell before the lunch break without any damage",
+          "pubTime": "1733483114962",
+          "source": "Cricbuzz",
+          "storyType": "Reports",
+          "imageId": 584692,
+          "seoHeadline": "South Africa finish with 358 after Verreynne ton",
+          "context": "Sri Lanka tour of South Africa, 2024",
+          "coverImage": {
+            "id": "584692",
+            "caption": "Verreynne remained unbeaten on 105.",
+            "source": "Getty"
+          },
+          "entitlements": {},
+          "adsType": {}
+        }
+      },
+      {
+        "story": {
+          "id": 132662,
+          "hline": "Starc's career-best bowls India out for 180",
+          "intro": "Nitish Reddy top-scored for the vistors with a quickfire 42 at the end",
+          "pubTime": "1733475043354",
+          "source": "Cricbuzz",
+          "storyType": "Reports",
+          "imageId": 584567,
+          "seoHeadline": "Mitcheel Starc's career-best best bowls India out for 180",
+          "context": "Border-Gavaskar Trophy 2024-25",
+          "coverImage": {
+            "id": "584567",
+            "caption": "Mitchell Starc finished with career-best figures of 6 for 48.",
+            "source": "Getty"
+          },
+          "entitlements": {},
+          "adsType": {}
+        }
+      }
+    ],
+    "lastUpdatedTime": "1733552761977",
+    "appIndex": {
+      "seoTitle": "Latest and breaking Cricket News - Cricbuzz | Cricbuzz.com",
+      "webURL": "http://www.cricbuzz.com/cricket-news"
+    }
+  }

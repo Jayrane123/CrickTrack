@@ -1,6 +1,9 @@
+
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import "./globals.css";
+import Navbar from "./component/Navbar";
+
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -13,10 +16,22 @@ export default function RootLayout({
   children,
 }: Readonly<{
   children: React.ReactNode;
-}>) {
+}>)
+
+ {
+  const handleSearch = (query: string) => {
+    console.log('Search query:', query);
+    // Implement your search functionality here
+  };
   return (
-    <html lang="en">
-      <body className={inter.className}>{children}</body>
+    <html lang="en" className="dark">
+      <body className={inter.className}>
+        <div className="relative w-full items-center">
+        
+        </div>
+        {children}
+      </body>
+      
     </html>
   );
 }
